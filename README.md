@@ -1,4 +1,10 @@
 # NETWORKWALKS-MIRIANTERESE-B084-WK3-PM3-CYBERSECURITY-PASSWORD-CRACKING
+
+
+
+
+
+
 A hands-on practical on password cracking using John the Ripper and the Networkwalks Password Cracker (Hash Calculator).
 I downloaded the John the Ripper app and set it up as the instructions required, then I uploaded the hash file in order to crack the password by clicking on "start new attack"
 Then the password to the locked pdf was generated which I used to open the file and I used same method above to open "locked pdf 2 & 3" respectively. 
